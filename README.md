@@ -1,0 +1,1 @@
+Lerna Configuration for MicroService Architecture
